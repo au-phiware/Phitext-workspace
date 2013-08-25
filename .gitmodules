@@ -1,0 +1,12 @@
+[submodule "PhiColor"]
+	path = PhiColor
+	url = git@github.com:au-phiware/PhiColor.git
+[submodule "Phitext"]
+	path = Phitext
+	url = git@github.com:au-phiware/Phitext.git
+[submodule "PhitextDeveloper"]
+	path = PhitextDeveloper
+	url = git@github.com:au-phiware/PhitextDeveloper.git
+[submodule "PhitextSampler"]
+	path = PhitextSampler
+	url = git@github.com:au-phiware/PhitextSampler.git
