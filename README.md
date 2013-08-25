@@ -17,7 +17,7 @@ To get a feel of what the library is capable of run the PhitextSampler app in th
 
 ### Seeing Red?
 
-If the projects in Xcode's Project Navigator are red, this means that the submodules failed to download (see above). Try downloading manually: [Phitext](https://github.com/au-phiware/Phitext), [PhitextSample](https://github.com/au-phiware/PhitextSampler), [PhitextDeveloper](https://github.com/au-phiware/PhitextDeveloper).
+If the projects in Xcode's Project Navigator are red, this means that the submodules failed to download (see above). Try downloading manually: [Phitext](https://github.com/au-phiware/Phitext), [PhitextSampler](https://github.com/au-phiware/PhitextSampler), [PhitextDeveloper](https://github.com/au-phiware/PhitextDeveloper).
 
 Contributing
 ------------
