@@ -1,7 +1,7 @@
 Phitext
 =======
 
-Phitext is the first rich text editor library for iOS developers -- http://phiware.com.au/apps/phitext.
+Phitext is the first rich text editor library for iOS developers - http://phiware.com.au/apps/phitext.
 
 Getting Started
 ---------------
@@ -12,6 +12,8 @@ Clone, update submodules and open Xcode.
     cd Phitext-workspace
     git submodule update --init
     open -a Xcode Phitext.xcworkspace
+
+To get a feel of what the library is capable of run the PhitextSampler app in the iPad Simulator.
 
 ### Seeing Red?
 
