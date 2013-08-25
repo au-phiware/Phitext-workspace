@@ -11,6 +11,6 @@
       location = "group:Phitext/Phitext.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Phicolor/PhiColor/PhiColor.xcodeproj">
+      location = "group:PhiColor/PhiColor.xcodeproj">
    </FileRef>
 </Workspace>
